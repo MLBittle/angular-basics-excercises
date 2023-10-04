@@ -1,5 +1,7 @@
 # AngularBasicsExcercises
 
+10.4.2023 I am so happy to figure out that letting Angular create my components is SO much better than trying to do it myself! I'm pretty sure that the easier way is generally the better one for making code that is clean and that works.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
 
 ## Development server
